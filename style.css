@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    padding-top: 750px;
+    text-align: center;
+}
+.Andaman_and-Nicobar
+{
+
+
+border-radius: 99.999999%;
+height: 600px;
+}
+#p
+{
+    font-family: cursive;
+}
+.maldives
+{
+height: 1;
+width: 1500;
+background-color: gold;}
+.DRC{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(rgb(0, 13, 255) 30%,rgb(0, 102, 255) 40% ,rgb(0, 208, 255) 100%);
+    display : table;
+    width: 100%;
+    height: 100%;
+}.Lakshadweep{
+    display: table-cell;
+    vertical-align: middle;
+
+}
+#bananas{
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+.menu{
+    color: white;
+    position: fixed;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    cursor : pointer;
+}
+.link
+{
+    font-family: 'Are You Serious', cursive;
+    display: inline;
+    padding-right: 25px;
+    padding-left: 35px;
+    font-size: 20px;
+}
+.link:hover{
+    text-decoration:underline ;
+    font-size: 39;
+}
+
+a{
+text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+#FUSS iframe
+{
+   width: 100%;
+}
+.contra h3
+{
+display: inline;
+}
